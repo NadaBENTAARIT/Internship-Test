@@ -28,4 +28,5 @@ Ce projet est un système de gestion des appareils technologiques au sein d'un m
 4. Accédez à votre application via le navigateur.
 
 ## Notes supplémentaires
-L'autehnetification est statique au niveau du front end; la page s'authentifier nous guide toujours à la page d'accueil ( home)
+- L'autehnetification est statique au niveau du front end; la page s'authentifier nous guide toujours à la page d'accueil ( home)
+- Pour tester les opérations de crud, consulter http://localhost:3000/home
